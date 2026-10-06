@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Transformer models
+transformers>=4.20.0
+
+# Data science & utilities
+scikit-learn>=1.0
+numpy>=1.21
+matplotlib>=3.4
+tqdm>=4.62
+
+# Computer vision / preprocessing
+opencv-python>=4.5
+Pillow>=8.3
+
+# Logging & visualization
+tensorboard>=2.8
+
+# (Optional) YAML config parsing
+PyYAML>=6.0
